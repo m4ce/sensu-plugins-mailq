@@ -1,6 +1,6 @@
 # Sensu plugin for monitoring the system mail queue
 
-A sensu plugin to monitor the system mail queue. It supports both Postfix and Exim.
+A sensu plugin to monitor the system mail queue. It supports both <b>Postfix</b> and <b>Exim</b>.
 
 ## Usage
 
